@@ -1,0 +1,8 @@
+{
+  "appId": "ua.tiniareni.game",
+  "appName": "Тіні Арени",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
