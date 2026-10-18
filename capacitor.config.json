@@ -2,5 +2,5 @@
 {
   "appId": "ua.tiniareni.game",
   "appName": "Тіні Арени",
-  "webDir": "."
+  "webDir": "www"
 }
